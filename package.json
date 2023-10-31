@@ -1,0 +1,22 @@
+{
+  "name": "firefox-mouse",
+  "version": "0.0.1",
+  "description": "Demo project to confirm Firefox mouse sharing issue in Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Westbrook/firefox-mouse.git"
+  },
+  "author": "Westbrook Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Westbrook/firefox-mouse/issues"
+  },
+  "homepage": "https://github.com/Westbrook/firefox-mouse#readme",
+  "dependencies": {
+    "@playwright/test": "^1.39.0"
+  }
+}
